@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q78Gcc2odXeCMNZA8Md3Kf10n83fcU3t/Elulzzj8Um4qtKTYkWO8u9qn3xCQrsSB6co4W+rvhuJQXw2vNJ4sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danii\\RiderProjects\\OSU\\InternalConnector\\InternalConnector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danii\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.1.22076.8\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.1.22076.8.nupkg.sha512"
+  ],
+  "logs": []
+}

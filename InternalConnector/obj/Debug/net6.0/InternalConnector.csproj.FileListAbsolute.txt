@@ -1,0 +1,12 @@
+C:\Users\danii\RiderProjects\OSU\InternalConnector\obj\Debug\net6.0\InternalConnector.csproj.AssemblyReference.cache
+C:\Users\danii\RiderProjects\OSU\InternalConnector\obj\Debug\net6.0\InternalConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\RiderProjects\OSU\InternalConnector\obj\Debug\net6.0\InternalConnector.AssemblyInfoInputs.cache
+C:\Users\danii\RiderProjects\OSU\InternalConnector\obj\Debug\net6.0\InternalConnector.AssemblyInfo.cs
+C:\Users\danii\RiderProjects\OSU\InternalConnector\obj\Debug\net6.0\InternalConnector.csproj.CoreCompileInputs.cache
+C:\Users\danii\RiderProjects\OSU\InternalConnector\bin\Debug\net6.0\InternalConnector.deps.json
+C:\Users\danii\RiderProjects\OSU\InternalConnector\bin\Debug\net6.0\InternalConnector.dll
+C:\Users\danii\RiderProjects\OSU\InternalConnector\bin\Debug\net6.0\ref\InternalConnector.dll
+C:\Users\danii\RiderProjects\OSU\InternalConnector\bin\Debug\net6.0\InternalConnector.pdb
+C:\Users\danii\RiderProjects\OSU\InternalConnector\obj\Debug\net6.0\InternalConnector.dll
+C:\Users\danii\RiderProjects\OSU\InternalConnector\obj\Debug\net6.0\ref\InternalConnector.dll
+C:\Users\danii\RiderProjects\OSU\InternalConnector\obj\Debug\net6.0\InternalConnector.pdb

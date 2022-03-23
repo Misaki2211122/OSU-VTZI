@@ -1,0 +1,17 @@
+C:\Users\danii\RiderProjects\OSU\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\danii\RiderProjects\OSU\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\RiderProjects\OSU\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\danii\RiderProjects\OSU\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\danii\RiderProjects\OSU\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\danii\RiderProjects\OSU\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\danii\RiderProjects\OSU\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+C:\Users\danii\RiderProjects\OSU\Database\bin\Debug\net6.0\Database.dll
+C:\Users\danii\RiderProjects\OSU\Database\bin\Debug\net6.0\ref\Database.dll
+C:\Users\danii\RiderProjects\OSU\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\danii\RiderProjects\OSU\Database\bin\Debug\net6.0\Application.dll
+C:\Users\danii\RiderProjects\OSU\Database\bin\Debug\net6.0\Application.pdb
+C:\Users\danii\RiderProjects\OSU\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+C:\Users\danii\RiderProjects\OSU\Database\obj\Debug\net6.0\Database.dll
+C:\Users\danii\RiderProjects\OSU\Database\obj\Debug\net6.0\ref\Database.dll
+C:\Users\danii\RiderProjects\OSU\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\danii\RiderProjects\OSU\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
