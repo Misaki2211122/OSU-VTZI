@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danii\\RiderProjects\\OSU\\OSU\\OSU.csproj": {}
+    "C:\\Users\\79123\\Desktop\\OSU\\OSU\\OSU.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danii\\RiderProjects\\OSU\\API\\API.csproj": {
+    "C:\\Users\\79123\\Desktop\\OSU\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danii\\RiderProjects\\OSU\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\79123\\Desktop\\OSU\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danii\\RiderProjects\\OSU\\API\\obj\\",
+        "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\79123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\79123\\Desktop\\OSU\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\79123\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj"
+              "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj"
               }
             }
           }
@@ -89,17 +89,17 @@
         }
       }
     },
-    "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj": {
+    "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\obj\\",
+        "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\79123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\79123\\Desktop\\OSU\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\79123\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -173,85 +173,17 @@
         }
       }
     },
-    "C:\\Users\\danii\\RiderProjects\\OSU\\Database1\\Database1.csproj": {
+    "C:\\Users\\79123\\Desktop\\OSU\\Database\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danii\\RiderProjects\\OSU\\Database1\\Database1.csproj",
-        "projectName": "Database1",
-        "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Database1\\Database1.csproj",
-        "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Database1\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.Extensions.Configuration.Abstractions": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.Extensions.DependencyInjection.Abstractions": {
-              "target": "Package",
-              "version": "[7.0.0-preview.1.22076.8, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\danii\\RiderProjects\\OSU\\Database\\Database.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\danii\\RiderProjects\\OSU\\Database\\Database.csproj",
+        "projectUniqueName": "C:\\Users\\79123\\Desktop\\OSU\\Database\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Database\\Database.csproj",
-        "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Database\\obj\\",
+        "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Database\\Database.csproj",
+        "packagesPath": "C:\\Users\\79123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\79123\\Desktop\\OSU\\Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\79123\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -265,8 +197,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj"
+              "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj"
               }
             }
           }
@@ -329,17 +261,17 @@
         }
       }
     },
-    "C:\\Users\\danii\\RiderProjects\\OSU\\InternalConnector\\InternalConnector.csproj": {
+    "C:\\Users\\79123\\Desktop\\OSU\\InternalConnector\\InternalConnector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danii\\RiderProjects\\OSU\\InternalConnector\\InternalConnector.csproj",
+        "projectUniqueName": "C:\\Users\\79123\\Desktop\\OSU\\InternalConnector\\InternalConnector.csproj",
         "projectName": "InternalConnector",
-        "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\InternalConnector\\InternalConnector.csproj",
-        "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danii\\RiderProjects\\OSU\\InternalConnector\\obj\\",
+        "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\InternalConnector\\InternalConnector.csproj",
+        "packagesPath": "C:\\Users\\79123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\79123\\Desktop\\OSU\\InternalConnector\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\79123\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -389,17 +321,17 @@
         }
       }
     },
-    "C:\\Users\\danii\\RiderProjects\\OSU\\OSU\\OSU.csproj": {
+    "C:\\Users\\79123\\Desktop\\OSU\\OSU\\OSU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danii\\RiderProjects\\OSU\\OSU\\OSU.csproj",
+        "projectUniqueName": "C:\\Users\\79123\\Desktop\\OSU\\OSU\\OSU.csproj",
         "projectName": "OSU",
-        "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\OSU\\OSU.csproj",
-        "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danii\\RiderProjects\\OSU\\OSU\\obj\\",
+        "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\OSU\\OSU.csproj",
+        "packagesPath": "C:\\Users\\79123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\79123\\Desktop\\OSU\\OSU\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\79123\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -413,20 +345,20 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\danii\\RiderProjects\\OSU\\API\\API.csproj": {
-                "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\API\\API.csproj"
+              "C:\\Users\\79123\\Desktop\\OSU\\API\\API.csproj": {
+                "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\API\\API.csproj"
               },
-              "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj"
+              "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj"
               },
-              "C:\\Users\\danii\\RiderProjects\\OSU\\Database1\\Database1.csproj": {
-                "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Database1\\Database1.csproj"
+              "C:\\Users\\79123\\Desktop\\OSU\\Database1\\Database1.csproj": {
+                "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Database1\\Database1.csproj"
               },
-              "C:\\Users\\danii\\RiderProjects\\OSU\\Database\\Database.csproj": {
-                "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Database\\Database.csproj"
+              "C:\\Users\\79123\\Desktop\\OSU\\Database\\Database.csproj": {
+                "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Database\\Database.csproj"
               },
-              "C:\\Users\\danii\\RiderProjects\\OSU\\InternalConnector\\InternalConnector.csproj": {
-                "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\InternalConnector\\InternalConnector.csproj"
+              "C:\\Users\\79123\\Desktop\\OSU\\InternalConnector\\InternalConnector.csproj": {
+                "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\InternalConnector\\InternalConnector.csproj"
               }
             }
           }

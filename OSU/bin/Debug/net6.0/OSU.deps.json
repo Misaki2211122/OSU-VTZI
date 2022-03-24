@@ -1333,6 +1333,7 @@
       },
       "API/1.0.0": {
         "dependencies": {
+          "Application": "1.0.0",
           "MediatR": "10.0.1",
           "Microsoft.AspNet.WebApi.Core": "5.2.7",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",

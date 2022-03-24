@@ -4415,19 +4415,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danii\\.nuget\\packages\\": {}
+    "C:\\Users\\79123\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danii\\RiderProjects\\OSU\\Database\\Database.csproj",
+      "projectUniqueName": "C:\\Users\\79123\\Desktop\\OSU\\Database\\Database.csproj",
       "projectName": "Database",
-      "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Database\\Database.csproj",
-      "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Database\\obj\\",
+      "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Database\\Database.csproj",
+      "packagesPath": "C:\\Users\\79123\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\79123\\Desktop\\OSU\\Database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\79123\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4441,8 +4441,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU\\Application\\Application.csproj"
+            "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj"
             }
           }
         }
