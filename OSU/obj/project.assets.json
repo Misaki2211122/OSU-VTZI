@@ -7213,7 +7213,6 @@
     "net6.0": [
       "API >= 1.0.0",
       "Application >= 1.0.0",
-      "C:\\Users\\79123\\Desktop\\OSU\\Database1\\Database1.csproj",
       "Database >= 1.0.0",
       "InternalConnector >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.Negotiate >= 6.0.1",
@@ -7221,19 +7220,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\79123\\.nuget\\packages\\": {}
+    "C:\\Users\\kosty\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\79123\\Desktop\\OSU\\OSU\\OSU.csproj",
+      "projectUniqueName": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\OSU\\OSU.csproj",
       "projectName": "OSU",
-      "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\OSU\\OSU.csproj",
-      "packagesPath": "C:\\Users\\79123\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\79123\\Desktop\\OSU\\OSU\\obj\\",
+      "projectPath": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\OSU\\OSU.csproj",
+      "packagesPath": "C:\\Users\\kosty\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\OSU\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\79123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7247,20 +7250,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\79123\\Desktop\\OSU\\API\\API.csproj": {
-              "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\API\\API.csproj"
+            "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\API\\API.csproj": {
+              "projectPath": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\API\\API.csproj"
             },
-            "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj"
+            "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\Application\\Application.csproj"
             },
-            "C:\\Users\\79123\\Desktop\\OSU\\Database1\\Database1.csproj": {
-              "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Database1\\Database1.csproj"
+            "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\Database\\Database.csproj": {
+              "projectPath": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\Database\\Database.csproj"
             },
-            "C:\\Users\\79123\\Desktop\\OSU\\Database\\Database.csproj": {
-              "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Database\\Database.csproj"
-            },
-            "C:\\Users\\79123\\Desktop\\OSU\\InternalConnector\\InternalConnector.csproj": {
-              "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\InternalConnector\\InternalConnector.csproj"
+            "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj": {
+              "projectPath": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj"
             }
           }
         }
@@ -7302,20 +7302,11 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.21617.4\\RuntimeIdentifierGraph.json"
       }
     }
   },
   "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\79123\\Desktop\\OSU\\Database1\\Database1.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\79123\\Desktop\\OSU\\Database1\\Database1.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
     {
       "code": "NU1701",
       "level": "Warning",
