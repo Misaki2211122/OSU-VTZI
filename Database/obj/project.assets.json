@@ -4415,19 +4415,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\79123\\.nuget\\packages\\": {}
+    "C:\\Users\\kosty\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\79123\\Desktop\\OSU\\Database\\Database.csproj",
+      "projectUniqueName": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\Database\\Database.csproj",
       "projectName": "Database",
-      "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Database\\Database.csproj",
-      "packagesPath": "C:\\Users\\79123\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\79123\\Desktop\\OSU\\Database\\obj\\",
+      "projectPath": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\Database\\Database.csproj",
+      "packagesPath": "C:\\Users\\kosty\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\Database\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\79123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4441,8 +4445,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\79123\\Desktop\\OSU\\Application\\Application.csproj"
+            "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\Application\\Application.csproj"
             }
           }
         }
@@ -4501,7 +4505,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.21617.4\\RuntimeIdentifierGraph.json"
       }
     }
   }
