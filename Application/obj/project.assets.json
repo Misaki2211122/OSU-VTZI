@@ -4168,23 +4168,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kosty\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\danii\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\kosty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kosty\\RiderProjects\\OSU-VTZI\\Application\\obj\\",
+      "projectPath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\kosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4254,7 +4250,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.21617.4\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
