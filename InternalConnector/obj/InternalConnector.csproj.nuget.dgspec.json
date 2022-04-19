@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj": {}
+    "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj": {
+    "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj",
+        "projectUniqueName": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj",
         "projectName": "InternalConnector",
-        "projectPath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj",
+        "projectPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj",
         "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\InternalConnector\\obj\\",
+        "outputPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\InternalConnector\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",

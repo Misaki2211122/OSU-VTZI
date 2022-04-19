@@ -40,3 +40,12 @@ C:\Users\danii\Source\Repos\OSU-VTZI\API\obj\Debug\net6.0\API.csproj.CoreCompile
 C:\Users\danii\Source\Repos\OSU-VTZI\API\obj\Debug\net6.0\API.dll
 C:\Users\danii\Source\Repos\OSU-VTZI\API\obj\Debug\net6.0\refint\API.dll
 C:\Users\danii\Source\Repos\OSU-VTZI\API\obj\Debug\net6.0\API.pdb
+C:\Users\danii\Source\repos\OSU-VTZI\API\bin\Debug\net6.0\API.deps.json
+C:\Users\danii\Source\repos\OSU-VTZI\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\danii\Source\repos\OSU-VTZI\API\bin\Debug\net6.0\API.dll
+C:\Users\danii\Source\repos\OSU-VTZI\API\bin\Debug\net6.0\API.pdb
+C:\Users\danii\Source\repos\OSU-VTZI\API\bin\Debug\net6.0\Application.dll
+C:\Users\danii\Source\repos\OSU-VTZI\API\bin\Debug\net6.0\Application.pdb
+C:\Users\danii\Source\repos\OSU-VTZI\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\danii\Source\repos\OSU-VTZI\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\danii\Source\repos\OSU-VTZI\API\obj\Debug\net6.0\ref\API.dll

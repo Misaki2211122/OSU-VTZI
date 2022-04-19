@@ -4420,11 +4420,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\Database\\Database.csproj",
+      "projectUniqueName": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Database\\Database.csproj",
       "projectName": "Database",
-      "projectPath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\Database\\Database.csproj",
+      "projectPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Database\\Database.csproj",
       "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\Database\\obj\\",
+      "outputPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4441,8 +4441,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\Application\\Application.csproj"
+            "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Application\\Application.csproj"
             }
           }
         }

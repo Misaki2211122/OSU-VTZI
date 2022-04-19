@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lqS1hclNRAl3K0c+SzcylSQrR93YNQp8m+wb2SumjI4dSPrzI2tmdywEczuHy2JUsYcdSpTi5WUFMMJLoQxSNg==",
+  "dgSpecHash": "FV3TbOPgilHCK+V3DCRaogHntM/DRzPUatdWiCNLJso2qIolroCJsCYuFpoTiw/QASfQDrxLjoGvyBAtOaMafw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danii\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

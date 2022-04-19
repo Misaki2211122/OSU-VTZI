@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vqs3xMjG7G4JAfwSi35EBO7YU/vf3sjI8/xVL7PDhzG8IQSgqQeQ9xV8FBOssqw4UpF89QQWWzJFuG7H7FxPyA==",
+  "dgSpecHash": "sfJ/EMFzPGCjbbqqC/LxRkWMvR4FVYl8tW85CVQpGrnQanAHyQaB1Q7tvn0sqxEV6KdM0pGg6T+YnTPBllniBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danii\\.nuget\\packages\\humanizer.core\\2.13.14\\humanizer.core.2.13.14.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
@@ -145,7 +145,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Пакет \"Microsoft.AspNet.WebApi.Core 5.2.7\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "message": "Package 'Microsoft.AspNet.WebApi.Core 5.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.AspNet.WebApi.Core",
       "targetGraphs": [
         "net6.0"

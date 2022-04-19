@@ -1,22 +1,16 @@
-﻿using Application.Domains.Requests.User;
-using Application.Domains.Responses.User;
+﻿using System.ComponentModel;
+using Application.Domains.Requests.Test;
+using Application.Domains.Responses.Test;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Web.Http;
 
 namespace API.Controllers.Test;
 
 [ApiController]
-[Authorize("BasicPolicy")]
-[Route("/users/")]
+[Route("/test/")]
 [DisplayName("Управление пользователями")]
 [Produces("application/json")]
 public class TestController : ControllerBase
@@ -35,14 +29,17 @@ public class TestController : ControllerBase
         _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
     }
 
-
+    /// <summary>
+    /// Тестовый метод для начала работы получает TestRequest Ctrl + лкм перйти к классу
+    /// Отдает TestResponse Ctrl + лкм перйти к классу
+    /// </summary>
+    /// <param name="request">Данные получаемые с фронта</param>
+    /// <returns></returns>
     [HttpPost]
-    [Route("getInfo")]
-    [AllowAnonymous]
-    [SwaggerResponse(StatusCodes.Status200OK, "Получение инфформации", typeof(TestRequest))]
-    [SwaggerResponse(StatusCodes.Status400BadRequest, "Создание пользователя", typeof(TestResponse))]
-    public async Task<IActionResult> CreateUser([FromHeader] string SC_Authorization,
-        [FromForm] GetInfoRequest request)
+    [Route("testMetod")] // название метода для обращения 
+    [SwaggerResponse(StatusCodes.Status200OK, "Получение информации", typeof(TestRequest))]
+    [SwaggerResponse(StatusCodes.Status400BadRequest, "Возврат информации", typeof(TestResponse))]
+    public async Task<IActionResult> TestMetod([FromForm] TestRequest request)
     {
         var resp = await _mediator.Send(request);
 
@@ -51,5 +48,4 @@ public class TestController : ControllerBase
         else
             return BadRequest(resp);
     }
-
 }

@@ -6903,11 +6903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\API\\API.csproj",
+      "projectPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\API\\API.csproj",
       "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\API\\obj\\",
+      "outputPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6924,8 +6924,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\Application\\Application.csproj"
+            "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Application\\Application.csproj"
             }
           }
         }
@@ -6974,6 +6974,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
@@ -6987,7 +6990,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Пакет \"Microsoft.AspNet.WebApi.Core 5.2.7\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "message": "Package 'Microsoft.AspNet.WebApi.Core 5.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.AspNet.WebApi.Core",
       "targetGraphs": [
         "net6.0"

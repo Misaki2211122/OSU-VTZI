@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gl/pbDR8mcbJbYsOkGeq0qLHn5B/4TUFtZi8eOgISdYJOKr1UMc+xRGZZQmCkI82OkW5PWuXBhgtsoAgl+3L3g==",
+  "dgSpecHash": "IkitbecUo/Lv6Df6hUnItMyzCSOtvbktUgwnaOwWLf3QOuB/5sMzg0VijgWpheF+3pt0tV9BRi4bb8IpngSWvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danii\\Source\\Repos\\OSU-VTZI\\Database\\Database.csproj",
+  "projectFilePath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Database\\Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danii\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
