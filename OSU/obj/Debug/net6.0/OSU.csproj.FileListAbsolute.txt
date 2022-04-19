@@ -122,3 +122,13 @@ C:\Users\kosty\RiderProjects\OSU-VTZI\OSU\obj\Debug\net6.0\refint\OSU.dll
 C:\Users\kosty\RiderProjects\OSU-VTZI\OSU\obj\Debug\net6.0\OSU.pdb
 C:\Users\kosty\RiderProjects\OSU-VTZI\OSU\obj\Debug\net6.0\OSU.genruntimeconfig.cache
 C:\Users\kosty\RiderProjects\OSU-VTZI\OSU\obj\Debug\net6.0\ref\OSU.dll
+C:\Users\danii\Source\Repos\OSU-VTZI\OSU\obj\Debug\net6.0\OSU.csproj.AssemblyReference.cache
+C:\Users\danii\Source\Repos\OSU-VTZI\OSU\obj\Debug\net6.0\OSU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Source\Repos\OSU-VTZI\OSU\obj\Debug\net6.0\OSU.AssemblyInfoInputs.cache
+C:\Users\danii\Source\Repos\OSU-VTZI\OSU\obj\Debug\net6.0\OSU.AssemblyInfo.cs
+C:\Users\danii\Source\Repos\OSU-VTZI\OSU\obj\Debug\net6.0\OSU.csproj.CoreCompileInputs.cache
+C:\Users\danii\Source\Repos\OSU-VTZI\OSU\obj\Debug\net6.0\OSU.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danii\Source\Repos\OSU-VTZI\OSU\obj\Debug\net6.0\OSU.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danii\Source\Repos\OSU-VTZI\OSU\obj\Debug\net6.0\OSU.dll
+C:\Users\danii\Source\Repos\OSU-VTZI\OSU\obj\Debug\net6.0\refint\OSU.dll
+C:\Users\danii\Source\Repos\OSU-VTZI\OSU\obj\Debug\net6.0\OSU.pdb

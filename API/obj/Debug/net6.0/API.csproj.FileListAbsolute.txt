@@ -32,3 +32,11 @@ C:\Users\kosty\RiderProjects\OSU-VTZI\API\obj\Debug\net6.0\refint\API.dll
 C:\Users\kosty\RiderProjects\OSU-VTZI\API\obj\Debug\net6.0\API.pdb
 C:\Users\kosty\RiderProjects\OSU-VTZI\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\Users\kosty\RiderProjects\OSU-VTZI\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\danii\Source\Repos\OSU-VTZI\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\danii\Source\Repos\OSU-VTZI\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Source\Repos\OSU-VTZI\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\danii\Source\Repos\OSU-VTZI\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\danii\Source\Repos\OSU-VTZI\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\danii\Source\Repos\OSU-VTZI\API\obj\Debug\net6.0\API.dll
+C:\Users\danii\Source\Repos\OSU-VTZI\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\danii\Source\Repos\OSU-VTZI\API\obj\Debug\net6.0\API.pdb
