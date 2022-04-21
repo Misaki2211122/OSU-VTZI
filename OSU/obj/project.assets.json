@@ -7225,11 +7225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\OSU\\OSU.csproj",
+      "projectUniqueName": "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\OSU\\OSU.csproj",
       "projectName": "OSU",
-      "projectPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\OSU\\OSU.csproj",
+      "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\OSU\\OSU.csproj",
       "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\OSU\\obj\\",
+      "outputPath": "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\OSU\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7246,17 +7246,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\API\\API.csproj": {
-              "projectPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\API\\API.csproj"
+            "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\API\\API.csproj": {
+              "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\API\\API.csproj"
             },
-            "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Application\\Application.csproj"
+            "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\Application\\Application.csproj"
             },
-            "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Database\\Database.csproj": {
-              "projectPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\Database\\Database.csproj"
+            "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\Database\\Database.csproj": {
+              "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\Database\\Database.csproj"
             },
-            "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj": {
-              "projectPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj"
+            "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj": {
+              "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj"
             }
           }
         }

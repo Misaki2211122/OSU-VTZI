@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj",
+      "projectUniqueName": "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj",
       "projectName": "InternalConnector",
-      "projectPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj",
+      "projectPath": "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj",
       "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\InternalConnector\\obj\\",
+      "outputPath": "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\InternalConnector\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",

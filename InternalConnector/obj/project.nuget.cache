@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i1PVUjtEaH9vkCn+WJKt7buayzTzbySoKA7V1B2LIrdenfVnVIVdm2SEGRu37NYkDUcyziRUKlSM3Z5MZI7JLQ==",
+  "dgSpecHash": "bZDqdUT9z07UTfj5GO8PB3QataOr9JyoKtzfO0mGnL3ds9r2UKW7mBAK9EdV7Ck8Eglw+z09ExjGY9HHHpHheg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danii\\Source\\repos\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj",
+  "projectFilePath": "C:\\Users\\danii\\RiderProjects\\OSU-VTZI\\InternalConnector\\InternalConnector.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danii\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.1.22076.8\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.1.22076.8.nupkg.sha512"
   ],
