@@ -8,13 +8,13 @@ namespace Application.Handlers.User;
 
 public class GetInfoHandler: IRequestHandler<GetInfoRequest, GetInfoResponse>
 {
-    private readonly IRepository<AdminEntity> _repositoryUser;
+    //private readonly IRepository<AdminEntity> _repositoryUser;
     //private readonly IMapper _mapper;   
 
 
-    public GetInfoHandler(IRepository<AdminEntity> repositoryUser)
+    public GetInfoHandler(/*IRepository<AdminEntity> repositoryUser*/)
     {
-        _repositoryUser = repositoryUser;
+        //_repositoryUser = repositoryUser;
     }
 
     public async Task<GetInfoResponse> Handle(GetInfoRequest request, CancellationToken cancellationToken)
